@@ -57,7 +57,6 @@ public class MainActivity extends AppCompatActivity implements View.OnLongClickL
                 recyclerViewAdapter.addItems(itemAndPeople);
             }
         });
-
     }
 
     @Override
